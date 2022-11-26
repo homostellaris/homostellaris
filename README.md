@@ -67,25 +67,36 @@ Some topics of particular interest to me are Artificial Intelligence, Astrophysi
 
 I can't choose just one so I'll name a few.
 
-### Wolverine
+## [Wolverine](https://en.wikipedia.org/wiki/Wolverine)
 
-TODO: Add photo of mighty Wolverine
+This majestic creature is in fact the world's largest weasel. Also known as the **glutton**, the Wolverine can kill and devour prey many times its size, such is the ferocity of this tremendous weasel.
+![Wolverine](/images/wolverine.webp)
 
-### Nautilus
+## [Nautilus](https://en.wikipedia.org/wiki/Nautilus)
 
-TODO: Add photo of cute Nautilus
+The Nautilus has one of the most comically endearing disadvantages of any animal: it can only swim backwards so it can't see where its going.
 
-### Tiger
+![Nautilus](/images/nautilus.jpeg)
 
-TODO: Add photo of an absolute specimen of a tiger
+## [Tiger](https://en.wikipedia.org/wiki/Tiger)
 
-### Moth
+The tiger has to be one of nature's finest creations. Sadly 3 of the 9 modern tiger species are already extinct. This is a tragedy.
 
-TODO: Give the whole spiel about butterflies and her moths are the real OG
+![Tiger](/images/tiger.jpeg)
 
-### Wolf
+## [Moth](https://en.wikipedia.org/wiki/Moth)
 
-TODO: Add photo of fluffy direwolf.
+Butterflies get all the attention but moths pre-date them significantly and are much more low-key, stoic, and badass.
+
+Given our cultural butterfly-bias its easy not to realise how cute and colourful some moths actually are.
+
+![Moth](/images/moth.jpeg)
+
+## [Wolf](https://en.wikipedia.org/wiki/Wolf)
+
+Dogs are awesome but I find it hard not to see many breeds as absurd caricatures of their noble ancestor, the wolf. I believe we humans can learn from the pack dynamics of wolves.
+
+![Wolf](/images/wolf.jpeg)
 
 # Favourite planet
 
