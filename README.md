@@ -4,10 +4,10 @@ I'm a software product creator who aspires to build things that are both useful 
 
 You can checkout my pinned repositories to see my work but here are a few quick links.
 
-- [Seshy](https://chrome.google.com/webstore/detail/seshy/noeieddjehppejohbbchbcmheecaneac?hl=en-GB)
-- [People Not Platforms](https://peoplenotplatforms.com/)
-- [Organise Your Pissup](https://organiseyourpissup.com/)
 - [Starfocus](https://www.starfocus.app/)
+- [Schedule Your Social](https://scheduleyour.social/)
+- [People Not Platforms](https://peoplenotplatforms.com/)
+- [Seshy](https://chrome.google.com/webstore/detail/seshy/noeieddjehppejohbbchbcmheecaneac?hl=en-GB)
 
 # Personality
 
@@ -27,6 +27,8 @@ I particularly like habit 5.
 
 The principle of [most respectful interpretation](https://fs.blog/most-respectful-interpretation/) is very important to me.
 
+I am a passionate advocate of [Effective Altruism](https://www.effectivealtruism.org/). It provides a guiding framework for my endeavours and I would like it to do the same for others. I'm particulary interested in **Longtermism** which considers the lives of those who _may_ exist in the future to be of similar or equivalent value compared with the lives of those who already exist. There is [a great Kurzegstat video on YouTube about this](https://www.youtube.com/watch?v=LEENEFaVUzU).
+
 # Dream
 
 I am a dreamer, and I long for a future in which technology has given humanity the freedom to thrive amongst the stars 🌟
@@ -41,11 +43,9 @@ My mission is one that is shared by many others.
 
 > Improve the probability that humanity becomes multiplanetary
 
-It took a lot of thought before I decided on this mission (and I may change it in future) so allow me provide some more context.
+It is entirely possilbe that we are the only intelligent species ever to have existed and furthermore that our origin of life is the only one there will be. Many consider this unlikely given the vastness of the observable universe but the fact is we have no evidence of alien intelligence thus far and our understanding of the processes that led to our own origin of life are limited. We cannot rule out this possiblity and it would therefore be wise to hedge against it especially given the potential consequences...
 
-I am a passionate advocate of [Effective Altruism](https://www.effectivealtruism.org/). It provides a guiding framework for my endeavours and I would like it to do the same for others. I'm particulary interested in **Longtermism** which considers the lives of those who _may_ exist in the future to be of similar or equivalent value compared with the lives of those who already exist. There is [a great Kurzegstat video on YouTube about this](https://www.youtube.com/watch?v=LEENEFaVUzU).
-
-One possibility that I find extremely relevant in this context is that we are the only intelligent species every to have existed. Many consider this unlikely but it is not something we can rule out. We must hedge against this possibility because if it is the case we have a moral duty to preserve the life itself (or the 'light of consciousness' as some have framed it). We may be the only species capable of ensuring the continued existence of all other species. In other words, we may be the de facto stewards of life in the universe.
+If we are truly unique then we have a moral duty to preserve the 'light of consciousness'. We would not only be saving ourselves but also every other species that already exist and (more importantly) every species that _could_ ever exist. In other words, we may be the de facto stewards of life in the universe.
 
 The difference between a universe brimming with life and one that is dead is almost impossible to comprehend so I take this mission very seriously and would like more people to do the same.
 
@@ -55,17 +55,15 @@ As a software engineer there are limts to have much I can contribute to this mis
 
 I agree with Richard Feynman’s sentiment that “anything is interesting if you go into it deeply enough”. However I spend most of my free time:
 
-- Parenting!
-- Hacking on hobby projects
-- Playing guitar
-- Playing & watching StarCraft 2 (a video game and e-sport)
-- Bouldering (indoor climbing)
+- Parenting! 👪
+- Hacking on hobby projects 🧑‍💻
+- Playing guitar 🤘
+- Playing & watching StarCraft 2 ⌨️
+- Bouldering 🧗
 
 Some topics of particular interest to me are Artificial Intelligence, Astrophysics, Astrobiology, Effective Altruism (particularly Longtermism), and Space Colonisation. I also enjoy creating and debating _absurd hypotheticals_.
 
-# Favourite animal(s)
-
-I can't choose just one so I'll name a few.
+# Favourite animals
 
 ## [Wolverine](https://en.wikipedia.org/wiki/Wolverine)
 
