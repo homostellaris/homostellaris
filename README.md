@@ -100,10 +100,21 @@ Dogs are awesome but I find it hard not to see many breeds as absurd caricatures
 
 # Favourite planet
 
-**Saturn**. Don't know why, I just like its vibe.
+Ever since I first saw [Saturn](https://en.wikipedia.org/wiki/Saturn) in my encyclopedia as a child I've been captivated by it. I don't know why, I just like its vibe.
 
-TODO: Add photo to remind people what Saturn looks like.
+![Saturn](/images/saturn.jpeg)
 
 # Desert island mix
 
-TODO: Insert Spotify playlist here
+I really enjoyed making [this playlist](https://open.spotify.com/playlist/52EVyR1t9EgXrn5aBu59IT?si=aa282cc307d9491a), it reads almost like an emotional map of my life 🖤
+
+1. **Nobuo Uematsu** - _Aerith's Theme_
+2. **Weezer** - _Say It Ain't So_
+3. **Coldplay** - _The Scientist_
+4. **Lamb of God** - _Blood Of The Scribe_
+5. **Bloc Party** - _Signs_
+6. **Zero 7** - _Somersault_
+7. **Cytotoxin** - _Chernopolis_
+8. **Ludovico Einaudi** - _The Earth Prelude_
+9. **Siobhan Wilson** - _Laugh and Die_
+10. **Max Richter, Mari Samuelsen** - _Mercy_
